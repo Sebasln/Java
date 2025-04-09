@@ -9,7 +9,7 @@ public class Ejercicio3Strings {
 		
 		int cantidadPalabras = contarPalabras(texto);
 		
-		System.out.println("EL texto tiene " + cantidadPalabras + " palabras");
+		System.out.println("EL texto tiene " + cantidadPalabras + " cantidad de palabras");
 		
 		
 		
